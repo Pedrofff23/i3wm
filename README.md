@@ -2,4 +2,5 @@
 Just a repo to save i3wm config files
 
 ## If not using Ubuntu install
-pactl
+- pactl
+- playerctl (maybe not realy needed)
